@@ -18,6 +18,7 @@ npm i && npm start
 - [shuklaayush](https://github.com/shuklaayush)
 - [JunaidBabu](https://github.com/JunaidBabu)
 - [sudevschiz](https://github.com/sudevschiz)
+- [anky901]
 
 ## Contribution
 
